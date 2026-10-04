@@ -1,0 +1,15 @@
+LA PALMA GITHUB PAGES UPLOAD
+
+Upload EVERYTHING in this folder to the ROOT of the GitHub repository.
+Do not upload only the ZIP.
+Do not put these files inside another folder in the repo.
+
+The repository root should visibly contain:
+index.html
+styles.css
+main.js
+site-config.js
+LaPalmaMENU.pdf
+and the remaining HTML/image files.
+
+Then: Settings -> Pages -> Deploy from a branch -> main -> /(root)
